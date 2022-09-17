@@ -11,7 +11,7 @@ This repository is migrated from my old github account that user name is Seung-J
 
 ## 준비 환경
 * Computer: Mac Book Pro
-* OS: centos7 [다운로드 링크] (http://isoredirect.centos.org/centos/8/isos/x86_64/CentOS-8.1.1911-x86_64-dvd1.iso)
+* OS: centos7 [다운로드 링크](http://isoredirect.centos.org/centos/8/isos/x86_64/CentOS-8.1.1911-x86_64-dvd1.iso)
 * Virtual Machine: VMWare Fusion [다운로드 링크](https://my.vmware.com/en/web/vmware/info/slug/desktop_end_user_computing/vmware_fusion/10_0)
 
 ## 결과 (2020.06.19)
