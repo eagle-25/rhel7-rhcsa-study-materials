@@ -3,7 +3,7 @@ Red Hat Certified System Administrator(RHCSA) Exam(EX200)
 
 
 ## Please Note
-This repository is migrated from my old github account that user name is Seung-Joon.
+This repository is migrated from my old github account which user name is Seung-Joon.
 
 ## 시험 신청
 * 신청 주소: https://www.redhat.com/ko/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam
